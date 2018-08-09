@@ -31,3 +31,17 @@ Parcalar:
 https://www.lobstersports.com/products/parts/battery-machines-parts/
 https://www.matchmatetennis.com/replacement-parts/
 
+dikey ve yatay hareket için 2 step(belki de servo)
+çark(kasnak)lar için 2 dc motor
+motorlar icin h-bridges
+top beslemesi için 1 motor
+microcontroller
+batarya - yedekli
+bluetooth module - bidirectional comm
+feed tube ya da sepet
+dikey ve yatay hareketler için yivli çubuklar
+support essembly
+slotted optocuplers - rotasyon ölçümleri için
+PID for each wheel - precise rotation control
+vertical angle sensor
+frame
